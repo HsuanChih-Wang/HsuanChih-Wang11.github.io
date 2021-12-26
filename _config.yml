@@ -10,7 +10,7 @@ description: "Hi! I am HsuanChih Wang(王軒至), this is my website!"
 keywords: intelligent transportation system
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: HsuanChih-Wang/HsuanChih-Wang.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
