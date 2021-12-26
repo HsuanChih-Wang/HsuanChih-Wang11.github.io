@@ -5,9 +5,9 @@ baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
 title: "Wang's Transportation Lab"
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+subtitle: "The intersection of transportation and technology"
+description: "Hi! I am HsuanChih Wang(王軒至), this is my website!"
+keywords: intelligent transportation system
 timezone: Asia/Shanghai
 encoding: "utf-8"
 repository: mzlogin/mzlogin.github.io
@@ -51,7 +51,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: HsuanChih Wang
 organization: 
 organization_url: 
 github_username: mzlogin
@@ -64,11 +64,11 @@ email: chumpma@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: Categories
 
 #   -
 #     href: /archives/
@@ -80,15 +80,15 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: wiki
 
   -
     href: /links/
-    label: 链接
+    label: links
 
   -
     href: /about/
-    label: 关于
+    label: about
 
 # ---------------- #
 #       RSS        #
