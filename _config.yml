@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://hsuanchih-wang.github.io/
+url: https://hsuanchih-wang.github.io
 date_format: "ordinal"
 title: "Wang's Transportation Lab"
 subtitle: "Transportation X Technology"
