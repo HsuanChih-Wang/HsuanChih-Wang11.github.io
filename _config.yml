@@ -134,16 +134,16 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: mzlogin
-    repo: blog-comments
+    repo: gitalk-comment
     oauth:
-        client_id: d2e1cbbd298958076462
+        client_id: gitalk-mywebsite
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: HsuanChih-Wang
+    repo: gitalk-comment
+    clientID: 8de14fe7ffd7d4b7beed
+    clientSecret: 6fadb16d006646544fd2806414524fe85572dc95
 # https://utteranc.es/
 utterances:
     repo: mzlogin/blog-comments
