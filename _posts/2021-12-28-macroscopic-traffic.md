@@ -25,31 +25,31 @@ $$
 
 又該路段假設無其他路口分支，依照流量守恆
 $$
-n1 + n2 = n3 + n4
+n1 + n2 = n3 + n4 \\
 $$
 因此
 $$
-q_{BD}∙∆T+ k_{AB}∙∆X= k_{CD}∙∆X+ q_{AC}∙∆T
+q_{BD}∙∆T+ k_{AB}∙∆X= k_{CD}∙∆X+ q_{AC}∙∆T \\
 $$
 移項後，我們可以得到：
 $$
-(q_{BD}-q_{AC})∙∆T+(k_{AB}-k_{CD})∙∆X= 0
+(q_{BD}-q_{AC})∙∆T+(k_{AB}-k_{CD})∙∆X= 0\\
 $$
 令: 
 $$
-∆q = q_{BD}-q_{AC} \\ ∆k=k_{AB}-k_{CD}
+∆q = q_{BD}-q_{AC} \\ ∆k=k_{AB}-k_{CD}\\
 $$
 可推導得：
 $$
-∆q∙∆T + ∆k∙∆X=0
+∆q∙∆T + ∆k∙∆X=0\\
 $$
 同除 ∆T∙∆X：
 $$
 \frac{∆q∙∆T}{∆T∙∆X} + \frac{∆k∙∆X}{∆T∙∆X}=0 \\
-\frac{∆q}{∆X} + \frac{∆k}{∆T}=0
+\frac{∆q}{∆X} + \frac{∆k}{∆T}=0\\
 $$
 
 因此推展可得流量守恆方程式（Conservation Equation）：
 $$
-\frac{∂q(x,t)}{∂x}+\frac{∂k(x,t)}{∂t} = 0
+\frac{∂q(x,t)}{∂x}+\frac{∂k(x,t)}{∂t} = 0\\
 $$
