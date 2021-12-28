@@ -55,6 +55,7 @@ $$
 $$
 
 因此推展可得流量守恆方程式（Conservation Equation）：
+
 $$
 \frac{∂q(x,t)}{∂x}+\frac{∂k(x,t)}{∂t} = 0\\
 $$
