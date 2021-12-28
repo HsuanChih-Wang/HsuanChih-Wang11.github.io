@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 巨觀車流公式推導
-categories: traffic theories
+categories: traffic-theories
 description: 由時間和空間維度推導巨觀車流公式
 keywords: macroscopic traffic flow
 mathjax: true
@@ -14,6 +14,8 @@ $$
 $$
 
 流量（q）和密度（k）皆可表示為空間距離（x）和時間（t）的函數。以下推導流量守恆方程式：
+
+<img src="/images/posts/traffic/microscopic-traffic-fig1.png" width="80%" alt="space-time-diagram"/>
 
 從時空圖我們知道：
 
