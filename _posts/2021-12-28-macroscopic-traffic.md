@@ -1,9 +1,10 @@
---
+---
 layout: post
 title: 巨觀車流公式推導
 categories: traffic theories
 description: 由時間和空間維度推導巨觀車流公式
 keywords: macroscopic traffic flow
+mathjax: true
 ---
 
 在巨觀車流理論中，流量守恆方程式（Conservation Equation）表示為下：
