@@ -4,8 +4,8 @@
 baseurl:
 url: https://hsuanchih-wang.github.io
 date_format: "ordinal"
-title: "Wang's Transportation Lab"
-subtitle: "Transportation X Technology"
+title: "Wang's Transportation Tech Lab"
+subtitle: "All about Transportation X Technology"
 description: "Hi! I am HsuanChih Wang(王軒至), this is my blog!"
 keywords: intelligent transportation system
 timezone: Asia/Shanghai
@@ -15,6 +15,7 @@ repository: HsuanChih-Wang/HsuanChih-Wang.github.io
 cdn:
     jsdelivr:
         enabled: true
+        
 # 可选组件配置
 components:
     # 分享
